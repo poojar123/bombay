@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'poopinslight';
+					src: url('/bombay/wp-content/uploads/useanyfont/4323Poopinslight.woff2') format('woff2'),
+						url('/bombay/wp-content/uploads/useanyfont/4323Poopinslight.woff') format('woff');
+				}
+
+				.poopinslight{font-family: 'poopinslight' !important;}
+
+				.et_gf_poopinslight{background:none !important;font-family:poopinslight;text-indent:0 !important;font-size:25px;}
+
+		

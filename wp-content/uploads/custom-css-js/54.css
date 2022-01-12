@@ -1,0 +1,288 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.logo-sec h6
+{
+  color: #262261;
+    font-size: 14px !important;
+  font-weight:bold !important;
+      margin-bottom: 3px !important;
+}
+.ycm-circle
+{
+      background-color: #7e78f8 !important;
+    padding: 20px 10px !important;
+    border-radius: 50% !important;
+    color: #fff !important;
+    margin-right: 15px !important;
+}
+.yash-text
+{
+  color:#212032 !important;
+  font-weight:600;
+}
+.table-1
+{
+      background: #F1F0FF !important;
+  border-radius:4px;
+  text-align:center;
+      margin-bottom: 0px !important;
+}
+.table-1 tr, .table-1 td
+{
+  border-top:none;
+  border-bottom:none;
+}
+.rupee-row td
+{
+ color: #212032;
+  font-weight:bold;
+}
+.fa-mobile-alt:before
+{
+    content: "\f095" !important;
+    font-family: fontawesome !important;
+}
+.fa-location-arrow:before 
+{
+    content: "\f041" !important;
+    font-family: fontawesome !important;
+}
+.pledge-btn a
+{
+      width: 100% !important;
+}
+.ycm-div
+{
+      display: flex;
+    align-items: center !important;
+}
+.infosys-img img
+{
+      background-color: #fff !important;
+    border-radius: 50% !important;
+    position: relative;
+    top: -45px;
+    left: 22px !important;
+    box-shadow: 1px 1px 2px 2px lightgrey !important;
+}
+.clap-text
+{
+  padding-left:10px;
+}
+.white-box
+{
+  padding:0px 30px;
+}
+
+.infosys-img .elementor-widget-container
+{
+      height: 0px !important;
+}
+.white-box h6, .clap-text
+{
+  color:#14104E !important;
+  font-weight:bold;
+}
+.hos-text
+{
+  margin-top:3%;
+}
+.hfe-nav-menu .current-menu-item a
+{
+      border-bottom: 1px solid #262261 !important;
+}
+.sign-up, .login-btn
+{
+  display:none;
+}
+.slider-text
+{
+      padding-top: 5% !important;
+}
+.ehf-header #masthead
+{
+      position: fixed !important;
+    left: 0 !important;
+    right: 0 !important;
+    background-color: #fff !important;
+    z-index: 1111 !important;
+}
+.home-banner
+{
+      position: relative;
+    top: 70px !important;
+  height:95vh !important;
+}
+.a2a_vertical_style .a2a_svg
+{
+      width: 20px !important;
+    height: 20px !important;
+}
+.hfe-nav-menu li a:hover {
+    border-bottom: 1px solid #262261 !important;
+}
+body span
+{
+    font-size: 15px !important;
+}
+.sign-up a
+{
+      background-color: #fff !important;
+    color: #262261 !important;
+    padding: 0px !important;
+    text-align: center !important;
+      border: 1px solid #262261 !important;
+  border-radius:5px !important;
+     display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.sign-up 
+{
+  width:30% !important;
+}
+.login-btn 
+{
+   width:30% !important;
+      margin-top: 4% !important;
+}
+.login-btn  a
+{
+      background-color: #262261 !important;
+    color: #fff !important;
+    padding: 0px !important;
+    text-align: center !important;
+      border: 1px solid #262261 !important;
+  border-radius:5px !important;
+      display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+
+
+/*Responsive start*/
+@media (max-width: 767px)
+{
+    #menu-1-ab86403
+  {
+        margin-left: 0px !important;
+  }
+    .part-text h2
+  {
+        font-size: 35px !important;
+  }
+    #rmp-menu-wrap-276 .rmp-menu-current-item .rmp-menu-item-link
+  {
+        background-color: #fff !important;
+    color: #262261 !important;
+  }
+    .sign-up, .login-btn
+   {
+         display:block;
+     }
+   .hfe-site-logo
+  {
+    float:left !important;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px)
+{
+}
+/*portrait - ipad*/
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px)
+and (orientation: portrait)
+and (-webkit-min-device-pixel-ratio: 1)
+{
+    
+    #rmp-menu-wrap-276 .rmp-menu-current-item .rmp-menu-item-link
+  {
+        background-color: #fff !important;
+    color: #262261 !important;
+  }
+}
+/* Landscape -ipad */
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px)
+and (orientation: landscape)
+and (-webkit-min-device-pixel-ratio: 2)
+{
+    
+    #rmp-menu-wrap-276 .rmp-menu-current-item .rmp-menu-item-link
+  {
+        background-color: #fff !important;
+    color: #262261 !important;
+  }
+}
+/* portrait -ipadPro */
+@media only screen
+and (min-device-width: 1024px)
+and (max-device-width: 1024px)
+and (orientation: portrait)
+and (-webkit-min-device-pixel-ratio: 2)
+{
+}
+/* landscape -ipadPro */
+@media only screen
+and (min-device-width: 1366px)
+and (max-device-width: 1366px)
+and (orientation: landscape)
+and (-webkit-min-device-pixel-ratio: 2)
+{
+}
+@media screen and (min-width: 1025px) and (max-width: 1280px)
+{
+}
+@media (device-width: 2560px)
+{
+  
+}
+@media (device-width: 4096px)
+{
+  
+}
+@media (device-width: 5120px)
+{
+  
+}
+@media (device-width: 2048px)
+{
+  
+}
+@media (device-width: 1920px)
+{
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->
